@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "test2",
+=======
+  "name": "test1",
+>>>>>>> test/main
   "version": "0.1.0",
   "private": true,
   "dependencies": {
